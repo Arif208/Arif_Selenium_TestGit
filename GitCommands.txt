@@ -1,0 +1,31 @@
+Git Commands:
+
+To change directory: /"DirectoryName"
+Ex: /d
+To view list of folders: ls
+To enter onto folder /"DirectoryName"/"FolderName"
+Ex: /d/Selenium_TestGit
+
+To config userName and email to git:
+
+git config --global user.name "username"
+ex: git config --global user.name "Arif208"
+
+git config --global user.email emailid
+ex: git config --global user.email s.arif2025@gmail.com
+
+To clone a file: git clone urlPath 
+Ex: git clone https://github.com/Arif208/Arif_Selenium_TestGit.git
+
+To add a file: git add fileName in folder 
+Ex: git add fileName
+
+To check the status: git status
+
+To commint a file: git commit -m "file descripition" fileName
+Ex: git commit -m "Git commands" GitCommands.txt
+
+
+To trasfer a file: git -u origin master 
+
+
